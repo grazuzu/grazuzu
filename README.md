@@ -34,7 +34,7 @@
   <a href="https://instagram.com/grazi_sena_26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:grazieledaianastm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/graziele-daiana-sena-de-sousa-1b8411204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com" target="_blank"></a> 
+  <a href="http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com" target="_blank"></a> 
  
 ![Snake animation](https://github.com/grazuzu/grazuzu/blob/output/github-contribution-grid-snake.svg)
  
