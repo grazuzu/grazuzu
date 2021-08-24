@@ -23,6 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+ 
   <!--
 <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 -->
@@ -31,10 +32,9 @@
 ##
 ### Meios de Contato
 <div> 
-<!--  <a href="https://instagram.com/grazi_sena_26" target="_blank"><img align="center" alt="graziele-instagram" height="30" width="30"  src="https://img-premium.flaticon.com/png/512/1377/premium/1377231.png?token=exp=1629765877~hmac=4dd664295a44da69260068c612307056" target="_blank"></a>
--->
-   <a href="mailto:grazieledaianastm@gmail.com" target="_blank"><img align="center" alt="graziele-gmail" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1782/1782751.png" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/graziele-daiana-sena-de-sousa-1b8411204" target="_blank"><img align="center" alt="graziele-linkedin" height="30" width="30" src="https://image.flaticon.com/icons/png/512/145/145807.png" target="_blank"></a> 
+  <a href="https://instagram.com/grazi_sena_26" target="_blank"><img align="center" alt="graziele-instagram" height="25" width="25"  src="https://image.flaticon.com/icons/png/512/1409/1409946.png" target="_blank"></a>
+  <a href="mailto:grazieledaianastm@gmail.com" target="_blank"><img align="center" alt="graziele-gmail" height="25" width="25" src="https://image.flaticon.com/icons/png/512/732/732200.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/graziele-daiana-sena-de-sousa-1b8411204" target="_blank"><img align="center" alt="graziele-linkedin" height="25" width="25" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
  
 ![Snake animation](https://github.com/grazuzu/grazuzu/blob/output/github-contribution-grid-snake.svg)
  
