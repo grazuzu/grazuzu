@@ -4,7 +4,7 @@
 **grazuzu/grazuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 Trabalhando atualmente com fortran - sim fortran, aceite, por enquanto
-- 🌱 Estudando C++ e front-end
+- 🌱 Estudando C++, Python e front-end
 - 🖍️ Também desenvolvendo pixel art para jogos
 - 💬 Pergunte-me sobre qualquer coisa, respeitosamente é claro
 - 📫 Contate-me no e-mail: grazieledaianastm@gmail.com
