@@ -14,9 +14,9 @@
 
 ### Meios de Contato
 <div> 
-  <a href="https://instagram.com/grazi_sena_26" target="_blank"><img align="center" alt="graziele-instagram" height="25" width="25"  src="https://image.flaticon.com/icons/png/512/1409/1409946.png" target="_blank"></a>
-  <a href="mailto:grazieledaianastm@gmail.com" target="_blank"><img align="center" alt="graziele-gmail" height="25" width="25" src="https://image.flaticon.com/icons/png/512/732/732200.png" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/graziele-daiana-sena-de-sousa-1b8411204" target="_blank"><img align="center" alt="graziele-linkedin" height="25" width="25" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
+   <a href="mailto:grazieledaianastm@gmail.com" target="_blank"><img align="center" alt="graziele-gmail" height="25" width="25" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/graziele-daiana-sena-de-sousa-1b8411204" target="_blank"><img align="center" alt="graziele-linkedin" height="25" width="25" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670167.png?token=exp=1634855862~hmac=5b27bda33bedd930532d7a7b8b78d7bb" target="_blank"></a>
+  <a href="https://instagram.com/grazi_sena_26" target="_blank"><img align="center" alt="graziele-instagram" height="25" width="25"  src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1634855852~hmac=8ba2127c361b2099416069ce5a66898d" target="_blank"></a>
  </div>
  </br>
  <div>
