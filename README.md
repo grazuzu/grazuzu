@@ -3,9 +3,8 @@
 ## **Oiii!** Eu sou a Grazi
 <!--
 **grazuzu/grazuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 Trabalhando atualmente com <s>fortran</s>, em processo de migração para **Python**
-- 🌱 Estudando Python e front-end
+--> 
+- 🌱 Iniciando os estudos de **Python** e **Front-end**
 - 🖍️ Também desenvolvendo pixel art para jogos
 - 💬 Pergunte-me sobre qualquer coisa, respeitosamente é claro
 - 📫 Contate-me no e-mail: grazieledaianastm@gmail.com
