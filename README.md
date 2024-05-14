@@ -4,8 +4,7 @@
 <!--
 **grazuzu/grazuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-- 🌱 Iniciando os estudos de **Python** e **Front-end**
-- 🖍️ Também desenvolvendo pixel art para jogos
+- 🌱 Fazendo alguma pixel art para jogos
 - 💬 Pergunte-me sobre qualquer coisa, respeitosamente é claro
 - 📫 Contate-me no e-mail: grazieledaianastm@gmail.com
 - 👓 Pronouns: qualquer um, só seja legal e vísivel
